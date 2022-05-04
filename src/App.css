@@ -1,0 +1,22 @@
+.general-containter{
+  position:relative;
+}
+.sidebar{
+  height: 100%;
+  width: 20vw;
+  position: fixed;
+
+  
+
+}
+
+.mainContainer{
+  height: 100vh;
+  width: 80vw;
+ float: right;
+ 
+
+
+  
+}
+
